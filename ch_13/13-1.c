@@ -1,6 +1,20 @@
-#define _EL_ADD_READ(ctx) do { \
-        if ((ctx)->ev.addRead) (ctx)->ev.addRead((ctx)->ev.data); \
-    } while(0)
+#in\
+clud\
+e <st\
+dio.h>
 
-_EL_ADD_READ(ctx);
-
+in\
+t m\
+ain(\
+)
+{
+pri\
+ntf\
+    (\
+    "Hello World!\n"
+    )\
+    ;
+    
+ret\
+urn 0;
+}
