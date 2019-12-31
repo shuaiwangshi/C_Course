@@ -7,7 +7,6 @@
 
 // End
 
-
 int main()
 {   
     p = GREETING;  
